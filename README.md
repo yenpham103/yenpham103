@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
 </div>
 
-<h1 align="center">🚀 Yen Pham</h1>
+<h1 align="center">Yenx P. 🌻</h1>
 <h3 align="center">Full-Stack Developer | Hanoi, Vietnam 🇻🇳</h3>
 
 <div align="center">
