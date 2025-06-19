@@ -1,145 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Building+Amazing+Web+Apps+🚀;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi there, I'm <strong>Yen Pham</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast</h3>
+<h1 align="center">🚀 Yen Pham</h1>
+<h3 align="center">Full-Stack Developer | BSS Group | Hanoi, Vietnam 🇻🇳</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yenpham103&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yenpham103?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=yenpham103&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yenpham103?label=Followers&style=flat-square&color=58A6FF" alt="GitHub followers" />
 </div>
 
 ---
 
-## 🎯 About Me
+## 💫 About Me
 
 ```javascript
-const yenPham = {
-    location: "Hanoi, Vietnam 🇻🇳",
+const developer = {
+    name: "Yen Pham",
+    location: "Hanoi, Vietnam",
     company: "BSS Group",
     role: "Full-Stack Developer",
-    passions: ["Clean Code", "User Experience", "Innovation"],
+    code: ["JavaScript", "TypeScript", "React", "Node.js"],
     currentFocus: "Building scalable web applications",
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "I turn ideas into reality through code ✨"
 };
 ```
 
-- 🔭 I'm currently working on **innovative web applications** at BSS Group
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
+- 🔭 Currently working on **innovative web solutions** at BSS Group
+- 🌱 Always learning and exploring **modern technologies**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- ⚡ Fun fact: I love turning complex problems into simple solutions!
+- ⚡ Fun fact: **Coffee is my debugging tool** ☕
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Styling & UI
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yenpham103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenpham103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yenpham103&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yenpham103&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-
-
----
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yenpham103&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yenpham103&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenpham103&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect with me
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nosgar.1003/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yenpham103)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nosgar.1003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yenpham103)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yenpham.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yenpham-portfolio.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
   
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/31qv3rkzp2xwn3hmhkb6xj5zztaq)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
+  **Thanks for visiting! Have a great day! 🌟**
   
   ⭐ From [yenpham103](https://github.com/yenpham103)
 </div>
