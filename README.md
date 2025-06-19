@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">🚀 Yen Pham</h1>
-<h3 align="center">Full-Stack Developer | BSS Group | Hanoi, Vietnam 🇻🇳</h3>
+<h3 align="center">Full-Stack Developer | Hanoi, Vietnam 🇻🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yenpham103&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
@@ -18,7 +18,6 @@
 const Yenx P. = {
     name: "Yen Pham",
     location: "Hanoi, Vietnam",
-    company: "BSS Group",
     role: "Full-Stack Developer",
     code: ["JavaScript", "TypeScript", "React", "Node.js"],
     currentFocus: "Building scalable web applications",
@@ -26,7 +25,6 @@ const Yenx P. = {
 };
 ```
 
-- 🔭 Currently working on **innovative web solutions** at BSS Group
 - 🌱 Always learning and exploring **modern technologies**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
 - ⚡ Fun fact: **Coffee is my debugging tool** ☕
@@ -81,5 +79,5 @@ const Yenx P. = {
   
   **Thanks for visiting! Have a great day! 🌟**
   
-  ⭐ From [yenpham103](https://github.com/yenpham103)
+  ⭐ From [Yenx P.](https://github.com/yenpham103)
 </div>
