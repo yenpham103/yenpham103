@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 Yen Pham</h1>
@@ -15,7 +15,7 @@
 ## 💫 About Me
 
 ```javascript
-const developer = {
+const Yenx P. = {
     name: "Yen Pham",
     location: "Hanoi, Vietnam",
     company: "BSS Group",
