@@ -19,7 +19,7 @@ const Yenx P. = {
     name: "Yen Pham",
     location: "Hanoi, Vietnam",
     role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "React", "Node.js"],
+    code: ["React", "Node.js", "MySql", "MongoDB"],
     currentFocus: "Building scalable web applications",
     funFact: "I turn ideas into reality through code ✨"
 };
