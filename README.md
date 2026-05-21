@@ -1,83 +1,127 @@
+<!-- HERO BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Yen+Pham+👋;Full-Stack+Developer+💻;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=220&section=header&text=Yen%20Pham&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20based%20in%20Hanoi%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=56&descSize=18" alt="header" />
 </div>
 
-<h1 align="center">Yenx P. 🌻</h1>
-<h3 align="center">Full-Stack Developer | Hanoi, Vietnam 🇻🇳</h3>
-
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yenpham103&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yenpham103?label=Followers&style=flat-square&color=58A6FF" alt="GitHub followers" />
+  <a href="https://github.com/yenpham103">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+web+applications;Crafting+pixel-perfect+user+interfaces;Always+learning%2C+always+shipping+%E2%9C%A8" alt="typing" />
+  </a>
+</div>
+
+<br/>
+
+<!-- PROFILE METRICS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yenpham103&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/yenpham103?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yenpham103?label=Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="stars" />
 </div>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-```javascript
-const Yenx P. = {
-    name: "Yen Pham",
-    location: "Hanoi, Vietnam",
-    role: "Full-Stack Developer",
-    code: ["React", "Node.js", "MySql", "MongoDB"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I turn ideas into reality through code ✨"
+Full-Stack Engineer passionate about building **performant**, **scalable**, and **delightful** digital products. I care deeply about clean architecture, developer experience, and writing code that other humans actually enjoy reading.
+
+```ts
+const yen: Developer = {
+  location: "Hanoi, Vietnam 🇻🇳",
+  role: "Full-Stack Developer",
+  focus: ["System Design", "Performance", "Developer Experience"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:  ["Node.js", "Express", "NestJS", "GraphQL"],
+    database: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    devops:   ["Docker", "GitHub Actions", "Vercel", "AWS"],
+  },
+  currentlyLearning: "Cloud-native architectures & distributed systems",
+  motto: "Ship fast, ship clean, ship value.",
 };
 ```
-
-- 🌱 Always learning and exploring **modern technologies**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- ⚡ Fun fact: **Coffee is my debugging tool** ☕
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,python" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,vite" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="database" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,vercel,aws" alt="devops" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion" alt="tools" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yenpham103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yenpham103&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6B6B&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=8B949E" alt="streak" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenpham103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="top-langs" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Trophies
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yenpham103&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenpham103&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <a href="https://github.com/yenpham103">
+    <img src="https://github-profile-trophy.vercel.app/?username=yenpham103&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
 </div>
 
 ---
 
-## 🤝 Connect with me
+## 🐍 Contribution Graph
 
 <div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nosgar.1003/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenphamdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamyen100301@gmail.com)
+  <img alt="snake-light" src="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="snake-dark"  src="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yenpham103&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="activity-graph" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yenphamdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:phamyen100301@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://www.facebook.com/nosgar.1003/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-  
-  **Thanks for visiting! Have a great day! 🌟**
-  
-  ⭐ From [Yenx P.](https://github.com/yenpham103)
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,30&height=100&section=footer" alt="footer" />
 </div>
