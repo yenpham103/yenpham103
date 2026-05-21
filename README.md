@@ -2,10 +2,10 @@
 
 I'm a full-stack developer in Hanoi.
 
-My day-to-day is mostly TypeScript — NestJS on the backend, React or Next.js up front,
-with PostgreSQL, Redis, and RabbitMQ doing the heavy lifting in between. I've been
-writing a lot of Umi.js this year, and Ant Design is what I reach for when something
-needs to ship by Friday.
+My day-to-day is mostly TypeScript — NestJS on the backend, React and Next.js up front,
+with PostgreSQL, Redis, and RabbitMQ wired up behind the scenes. I spend most of my
+frontend hours in Tailwind and shadcn/ui — they're how I ship interfaces without
+fighting CSS at 2am.
 
 I care about systems that don't fall over at 3am, code other engineers actually want
 to read, and the small details that don't show up on a roadmap but make everything
@@ -20,8 +20,8 @@ or find me on [LinkedIn](https://www.linkedin.com/in/yenphamdev/) and
 ### What I work with
 
 ```
+Frontend          React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Ant Design · Umi.js
 Backend           NestJS · Node.js · GraphQL
-Frontend          React · Next.js · Umi.js · Ant Design · Tailwind CSS
 Data & messaging  PostgreSQL · MySQL · Redis · RabbitMQ
 Infrastructure    Docker · Nginx · GitHub Actions · Linux
 ```
@@ -31,11 +31,12 @@ Infrastructure    Docker · Nginx · GitHub Actions · Linux
 
 <br/>
 
-- Boring tech is underrated. Postgres can do more than people think.
+- shadcn/ui got it right — you own the components, not your dependency tree.
+- Tailwind isn't ugly. Your design system probably is.
+- Boring tech is underrated. Postgres can do more than most people think.
 - Most "scale" problems are really observability problems in disguise.
-- Type systems are worth the noise — until they're not. (Sometimes `any` is fine.)
 - If a query is slow, blame the index before you blame the database.
-- Ant Design > Material UI for internal tools. Not a debate.
+- Sometimes `any` is fine. Don't @ me.
 
 </details>
 
