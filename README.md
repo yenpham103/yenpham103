@@ -1,32 +1,47 @@
-# Yen Pham
+# Xin chào — I'm Yen
 
-**Full-stack engineer · Hanoi, Vietnam**
+I'm a full-stack developer in Hanoi.
 
-I build web products with React, Next.js, and NestJS. Focused on system
-architecture, developer experience, and code that ships.
+My day-to-day is mostly TypeScript — NestJS on the backend, React or Next.js up front,
+with PostgreSQL, Redis, and RabbitMQ doing the heavy lifting in between. I've been
+writing a lot of Umi.js this year, and Ant Design is what I reach for when something
+needs to ship by Friday.
 
-<a href="mailto:phamyen100301@gmail.com">phamyen100301@gmail.com</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/yenphamdev/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.facebook.com/nosgar.1003/">Facebook</a>
+I care about systems that don't fall over at 3am, code other engineers actually want
+to read, and the small details that don't show up on a roadmap but make everything
+feel right when they're there.
+
+You can reach me at [phamyen100301@gmail.com](mailto:phamyen100301@gmail.com),
+or find me on [LinkedIn](https://www.linkedin.com/in/yenphamdev/) and
+[Facebook](https://www.facebook.com/nosgar.1003/).
 
 <br/>
 
-### Stack
+### What I work with
 
 ```
-Languages         TypeScript · JavaScript · SQL
-Frontend          React · Next.js · Umi.js · Ant Design · Tailwind CSS
 Backend           NestJS · Node.js · GraphQL
-Database          PostgreSQL · MySQL · Redis
-Messaging         RabbitMQ
+Frontend          React · Next.js · Umi.js · Ant Design · Tailwind CSS
+Data & messaging  PostgreSQL · MySQL · Redis · RabbitMQ
 Infrastructure    Docker · Nginx · GitHub Actions · Linux
 ```
 
+<details>
+<summary>&nbsp;<b>A few things I have opinions about</b></summary>
+
 <br/>
 
-### Activity
+- Boring tech is underrated. Postgres can do more than people think.
+- Most "scale" problems are really observability problems in disguise.
+- Type systems are worth the noise — until they're not. (Sometimes `any` is fine.)
+- If a query is slow, blame the index before you blame the database.
+- Ant Design > Material UI for internal tools. Not a debate.
+
+</details>
+
+<br/>
+
+### A few numbers
 
 <div align="center">
   <a href="https://github.com/yenpham103">
@@ -64,4 +79,4 @@ Infrastructure    Docker · Nginx · GitHub Actions · Linux
 
 ---
 
-<sub>Available for collaboration · Updated automatically</sub>
+<sub>If you're building something with queues, async pipelines, or APIs that need to be careful with other people's data — I'd genuinely love to hear about it. Coffee's on me if you're in Hanoi.</sub>
