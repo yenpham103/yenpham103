@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="186" viewBox="0 0 1000 186" role="img" aria-label="Experience: BSS Commerce 2022 to 2025, LTS Group 2025 to 2026, SmartOSC 2026 to now">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+<linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d0d7de"/><stop offset="0.6" stop-color="#d0d7de"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+<style>
+.period{font:500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#59636e}
+.company{font:700 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#1f2328}
+.role{font:500 13.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#1f2328}
+.note{font:400 12.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#59636e}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.15}50%{opacity:.45}}
+</style>
+</defs>
+<rect x="1" y="1" width="998" height="184" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+<line x1="60" y1="64" x2="940" y2="64" stroke="url(#track)" stroke-width="2"/>
+<circle cx="170" cy="64" r="8" fill="#f6f8fa" stroke="#59636e" stroke-width="2"/><text x="170" y="34" class="period" text-anchor="middle">Jun 2022 to Jun 2025</text><text x="170" y="108" class="company" text-anchor="middle">BSS Commerce</text><text x="170" y="132" class="role" text-anchor="middle">Software Engineer, then Fullstack DevOps</text><text x="170" y="156" class="note" text-anchor="middle">Shopify app LCP 4s+ to under 2.5s</text><circle cx="500" cy="64" r="8" fill="#f6f8fa" stroke="#59636e" stroke-width="2"/><text x="500" y="34" class="period" text-anchor="middle">Jun 2025 to Aug 2026</text><text x="500" y="108" class="company" text-anchor="middle">LTS Group</text><text x="500" y="132" class="role" text-anchor="middle">Full Stack Developer</text><text x="500" y="156" class="note" text-anchor="middle">Internal business systems, AI automation</text><circle cx="830" cy="64" r="16" fill="url(#accent)" opacity="0.2" class="pulse"/><circle cx="830" cy="64" r="8" fill="url(#accent)" stroke="url(#accent)" stroke-width="2"/><text x="830" y="34" class="period" text-anchor="middle">Aug 2026 to now</text><text x="830" y="108" class="company" text-anchor="middle">SmartOSC</text><text x="830" y="132" class="role" text-anchor="middle">Senior Software Engineer</text><text x="830" y="156" class="note" text-anchor="middle">Applied AI: LLM evaluation, AI agents</text>
+</svg>
