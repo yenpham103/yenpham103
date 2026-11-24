@@ -1,29 +1,38 @@
-# Xin chào — I'm Yen
+# Xin chào, I'm Yen
 
-I'm a full-stack developer in Hanoi.
+Software Engineer at **SmartOSC** in Hanoi, working on applied AI with a focus on **LLM evaluation** and **AI agents**.
 
-My day-to-day is mostly TypeScript — NestJS on the backend, React and Next.js up front,
-with PostgreSQL, Redis, and RabbitMQ wired up behind the scenes. I spend most of my
-frontend hours in Tailwind and shadcn/ui — they're how I ship interfaces without
-fighting CSS at 2am.
-
-I care about systems that don't fall over at 3am, code other engineers actually want
-to read, and the small details that don't show up on a roadmap but make everything
-feel right when they're there.
-
-You can reach me at [phamyen100301@gmail.com](mailto:phamyen100301@gmail.com),
-or find me on [LinkedIn](https://www.linkedin.com/in/yenphamdev/) and
-[Facebook](https://www.facebook.com/nosgar.1003/).
+Before that, I spent four years building full-stack TypeScript products: internal business systems at LTS Group and Shopify apps at BSS Commerce.
 
 <br/>
 
-### What I work with
+### What I'm working on
+
+- **LLM evaluation platform.** I built it from scratch to production with NestJS and Next.js. It is integrated into CI pipelines and catches AI quality regressions before code is merged. Scoring uses LLM-as-a-judge on a shared rubric bank, validated against human reviewers. I also wrote its Go SDK, so applications in any language, including multi-step agent workflows, can plug in.
+- **AI-DLC workflow platform.** It turns workflows designed on a visual canvas into kits of agents, skills, review gates and golden test cases. Each version must pass its evaluations before it can be activated, and live runs pause at review gates for human approval.
+- **MCP server** that gives Claude Code, Cursor and Codex access to each project's knowledge base, requirements and tickets.
+
+Both platforms are internal, so their code lives in private repositories.
+
+<br/>
+
+### Previously
+
+- **LTS Group** (2025 to 2026). Contract, invoicing and budget planning systems on Next.js, NestJS and PostgreSQL, with Microsoft Graph and Microsoft Teams integrations. Found and fixed a critical remote code execution vulnerability in the HR system.
+- **BSS Commerce** (2022 to 2025). Maintained a public Shopify app and brought its LCP from over 4s to under 2.5s for Built for Shopify. Built internal admin and customer insight tools, and ran CI/CD, deployments and monitoring with Jenkins, GitLab CI/CD and Zabbix.
+
+<br/>
+
+### Tech stack
 
 ```
-Frontend          React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Ant Design · Umi.js
-Backend           NestJS · Node.js · GraphQL
-Data & messaging  PostgreSQL · MySQL · Redis · RabbitMQ
-Infrastructure    Docker · Nginx · GitHub Actions · Linux
+AI / LLM          LLM evaluation · LLM-as-a-judge · AI agents · MCP · LiteLLM · OpenAI / Gemini / Claude APIs
+Languages         TypeScript · JavaScript · Go · SQL
+Backend           Node.js · NestJS · REST APIs · WebSockets · Bull · RabbitMQ · FastAPI
+Frontend          Next.js · React · TanStack Query · Tailwind CSS · shadcn/ui · Ant Design
+Data              PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle · TypeORM
+Infrastructure    Docker · GitLab CI/CD · Jenkins · Nginx · Cloudflare · Linux
+Tools             Claude Code · Cursor · Git · Jest · Vitest
 ```
 
 <details>
@@ -31,12 +40,12 @@ Infrastructure    Docker · Nginx · GitHub Actions · Linux
 
 <br/>
 
-- shadcn/ui got it right — you own the components, not your dependency tree.
-- Tailwind isn't ugly. Your design system probably is.
+- An AI feature without evals is a demo, not a product.
+- A judge model has to agree with human reviewers before its scores mean anything.
+- shadcn/ui got it right: you own the components, not your dependency tree.
 - Boring tech is underrated. Postgres can do more than most people think.
 - Most "scale" problems are really observability problems in disguise.
 - If a query is slow, blame the index before you blame the database.
-- Sometimes `any` is fine. Don't @ me.
 
 </details>
 
@@ -71,13 +80,8 @@ Infrastructure    Docker · Nginx · GitHub Actions · Linux
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yenpham103/yenpham103/output/github-contribution-grid-snake.svg" />
-</picture>
+### Get in touch
 
-<br/>
+[phamyen100301@gmail.com](mailto:phamyen100301@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yenphamdev/)
 
----
-
-<sub>If you're building something with queues, async pipelines, or APIs that need to be careful with other people's data — I'd genuinely love to hear about it. Coffee's on me if you're in Hanoi.</sub>
+<sub>If you're working on LLM evaluation, AI agents, or the infrastructure that makes them reliable, I'd love to hear about it. Coffee's on me if you're in Hanoi.</sub>
